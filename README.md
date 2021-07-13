@@ -1,2 +1,2 @@
 # FantasyEngine
-The repository for creating real fantasy world.
+The repository for creating fantasy world.
